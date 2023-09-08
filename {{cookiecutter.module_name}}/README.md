@@ -2,4 +2,4 @@
 {{cookiecutter.module_description}}
 
 example update!
-simple update: 1
+simple update: 2
